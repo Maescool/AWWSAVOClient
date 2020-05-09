@@ -1,0 +1,23 @@
+{
+  "name": "maescool/awwsavoclient",
+  "version": "1.0.0",
+  "type": "library",
+  "description": "AWWSAVO Soap client for getting stock info at Accell",
+  "homepage": "https://github.com/Maescool/AWWSAVOClient",
+  "license": "BSD",
+  "authors": [
+    {
+      "name": "Pieter Maes",
+      "email": "pieter@maescool.be"
+    }
+  ],
+  "require": {
+    "php": ">= 7.2",
+    "ext-soap": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "AWWSAVO\\Client\\": "src/"
+    }
+  }
+}
