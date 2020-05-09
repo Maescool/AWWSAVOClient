@@ -4,7 +4,7 @@
   "type": "library",
   "description": "AWWSAVO Soap client for getting stock info at Accell",
   "homepage": "https://github.com/Maescool/AWWSAVOClient",
-  "license": "BSD",
+  "license": "BSD-2-Clause",
   "authors": [
     {
       "name": "Pieter Maes",
